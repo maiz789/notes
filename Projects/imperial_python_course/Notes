@@ -1,0 +1,16 @@
+Lesson 5
+Abstraction
+- Name funtions as verb phrases, e.g. is_prime, has_odd_number. So you can read code like english.
+- Function is a method of abstraction
+Testing
+- For algorithmic function, could write a test around it to make sure the result is within error range
+
+Lesson 6
+Tuple: like list but tuple is mutable
+
+Data types
+int
+string -> Just like tuple it is immuatble (cannot append). We can change what the variable points to though
+list
+tuple
+dictionary
